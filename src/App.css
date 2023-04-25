@@ -1,0 +1,18 @@
+.app-contianer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.list-contianer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+}
+.search-input{
+    height: 35px;
+    color: rgb(0, 0, 20);
+    border-radius: 5px;
+}
